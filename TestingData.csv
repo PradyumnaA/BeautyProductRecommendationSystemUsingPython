@@ -1,0 +1,4 @@
+brand_name,product_id,image_url,in_stock,mrp,price,product_title,rating,rating_count,tags,product_url,listing_page_name,listing_url,listing_page_no,Category
+LorealParis,150,https://localhost:8080,TRUE,100,750,Herbal Shampoo,5,100,"FEATURED, BESTSELLER",https;//localhost:5000,Herbal Oil,https://google.com,1,Soap
+Pantene,190,https://pantene.com,TRUE,300,400,Herbal Oil,3.2,300,FEATURED,https;//localhost:5001,Herbal Essences,https://yahoo.com,1,Oil
+Vico,112,https://www.vico.com,TRUE,10,300,Hydrator VIco,5,10,FEATURED,https://localhostvico.com,Hydrator,https://yahoo.com/somehydrator,1,Hydrator
